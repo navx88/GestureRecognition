@@ -1,0 +1,5 @@
+﻿  Detector.cpp
+c:\users\owner\documents\_fydp\kinectproject\kinectproject\detector.cpp(6): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\owner\documents\_fydp\kinectproject\kinectproject\detector.cpp(7): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\owner\documents\_fydp\kinectproject\kinectproject\detector.cpp(8): warning C4305: '=': truncation from 'double' to 'float'
+  KinectProject.vcxproj -> C:\Users\Owner\Documents\_FYDP\KinectProject\Debug\KinectProject.exe
